@@ -1,0 +1,46 @@
+.navbar {
+    margin-bottom: 50px;
+}
+
+button img {
+    height: 30px;
+}
+
+#categoryRow {
+    margin-top: 50px;
+}
+
+#categoryList .list-group-item-action .badge-pill {
+    background-color: grey;
+    color: white;
+}
+
+#categoryList .active .badge-pill {
+    background-color: white;
+    color: #007AFF;
+}
+
+#itemsRow {
+    margin-top: 50px;
+}
+
+.card {
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+}
+
+.card-body img {
+    height: 20px;
+}
+
+.carousel {
+    max-width: 100%;
+}
+
+.modalInfoBody {
+    margin-bottom: 20px;
+}
+
+.tab-pane {
+    padding: 10px 10px 0px 10px;
+}
